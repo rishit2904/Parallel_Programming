@@ -57,7 +57,7 @@ To start working with this repository, you will need an MPI environment configur
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/17arhaan/Parallel_Programming.git
+git clone https://github.com/rishit2904/Parallel_Programming.git
 cd Parallel_Programming
 ```
 
